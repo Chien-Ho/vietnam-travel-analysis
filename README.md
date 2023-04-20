@@ -1,2 +1,2 @@
-# du-lich-Viet-Nam
-Phân tích về du lịch Việt Nam thông qua dữ liệu từ website Gody
+# viet-nam-travel
+analyze and scraping vietnam travel data from Gody website.
